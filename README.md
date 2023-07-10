@@ -1,5 +1,5 @@
 <p align="center">
-<img src="src/assets/mention_gif_3.gif" width="80%"></p>
+<img src="/assets/download.png" width="80%"></p>
 
 # Book Recommender System
 
