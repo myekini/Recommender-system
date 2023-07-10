@@ -1,5 +1,5 @@
-# Recommender-system
-A book recommendation machine learning system
+<p align="center">
+<img src="src/assets/mention_gif_3.gif" width="80%"></p>
 
 # Book Recommender System
 
