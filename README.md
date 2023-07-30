@@ -1,7 +1,7 @@
 # Book Recommender System
 
 <p align="center">
-  <img src="/assets/download.png" width="80%">
+  <img src="/assets/book.png" width="70%">
 </p>
 
 Welcome to the Book Recommender System project! This repository contains code for a book recommender system that utilizes a content-based filtering approach to recommend similar books based on their textual features.
